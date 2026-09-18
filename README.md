@@ -1,4 +1,9 @@
+# -------------------------------------------------------------------------
+# Please read Computer Specs.md to see recommended/Minimum requirements ---
+# -------------------------------------------------------------------------
+
 Note photos at the bottom
+
 # CodePilot
 
 A local‑AI Unity assistant powered by Ollama — no cloud, no API keys, fully offline.
