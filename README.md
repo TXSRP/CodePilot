@@ -1,5 +1,5 @@
 # -------------------------------------------------------------------------
-# Please read Computer Specs.md to see recommended/Minimum requirements ---
+# Please read Computer Specs.md to see recommended/Minimum requirements
 # -------------------------------------------------------------------------
 
 Note photos at the bottom
