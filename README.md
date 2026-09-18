@@ -1,15 +1,3 @@
-# Photos:
-
-![CodePilot Photo1](https://github.com/TXSRP/CodePilot/blob/main/Screenshots/Photo1.png)
-
-![CodePilot Photo2](https://github.com/TXSRP/CodePilot/blob/main/Screenshots/Photo2.png)
-
-![CodePilot Photo3](https://github.com/TXSRP/CodePilot/blob/main/Screenshots/Photo3.png)
-
-![CodePilot Photo4](https://github.com/TXSRP/CodePilot/blob/main/Screenshots/Photo4.png)
-
-![CodePilot Photo5](https://github.com/TXSRP/CodePilot/blob/main/Screenshots/Photo5.png)
-
 # CodePilot
 
 A local‑AI Unity assistant powered by Ollama — no cloud, no API keys, fully offline.
@@ -125,3 +113,15 @@ This project is licensed under the MIT License.
 
 Pull requests are welcome.
 For major changes, please open an issue first to discuss what you’d like to improve.
+
+# Photos:
+
+![CodePilot Photo1](https://github.com/TXSRP/CodePilot/blob/main/Screenshots/Photo1.png)
+
+![CodePilot Photo2](https://github.com/TXSRP/CodePilot/blob/main/Screenshots/Photo2.png)
+
+![CodePilot Photo3](https://github.com/TXSRP/CodePilot/blob/main/Screenshots/Photo3.png)
+
+![CodePilot Photo4](https://github.com/TXSRP/CodePilot/blob/main/Screenshots/Photo4.png)
+
+![CodePilot Photo5](https://github.com/TXSRP/CodePilot/blob/main/Screenshots/Photo5.png)
