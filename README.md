@@ -69,7 +69,7 @@ DeepSeek LLM 33B
 
 More models will be supported in future updates.
 
-# ------------------------------------------------------------------
+# --------------------------------------------
 
 the Discord server, including:
 
