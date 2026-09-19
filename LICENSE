@@ -1,3 +1,27 @@
+============================================================
+                        CODEPILOT LICENSE
+============================================================
+
+Project: CodePilot — Unity Development Assistant
+Version: 1.0.0
+Release Year: 2026
+Maintainer: CodePilot Team
+Repository: https://github.com/CodePilot
+License Type: MIT (Open Source)
+============================================================
+
+CodePilot is an open-source Unity development assistant designed to enhance
+workflow efficiency, improve project navigation, and provide advanced editor
+tooling for Unity developers. This license governs the use, distribution, and
+modification of the CodePilot software and all associated assets, scripts,
+editor tools, and documentation included in this repository.
+
+By using CodePilot, you agree to the terms outlined below.
+
+============================================================
+                          MIT LICENSE
+============================================================
+
 MIT License
 
 Copyright (c) 2026 CodePilot
@@ -19,3 +43,37 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
+
+============================================================
+                     ADDITIONAL INFORMATION
+============================================================
+
+This license applies to:
+- All C# scripts included in the CodePilot package
+- All Unity Editor windows, tools, and utilities
+- All branding assets included in the repository
+- All documentation files and examples
+- All future updates unless otherwise stated
+
+This license does NOT apply to:
+- Third-party assets included for demonstration
+- External libraries referenced by CodePilot
+- Unity Engine or Unity Technologies assets
+
+============================================================
+                     CONTRIBUTION GUIDELINES
+============================================================
+
+Contributions to CodePilot are welcome. By submitting pull requests, patches,
+or code contributions, you agree that your contributions will be licensed
+under the MIT License and may be used, modified, or redistributed as part of
+the CodePilot project.
+
+============================================================
+                     CONTACT & SUPPORT
+============================================================
+
+For issues, feature requests, or contributions:
+GitHub Issues: https://github.com/TXSRP/CodePilot/issues
+Email: CodePilot-Unity.AI@proton.me
+============================================================
