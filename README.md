@@ -121,6 +121,7 @@ Pull requests are welcome.
 For major changes, please open an issue first to discuss what you’d like to improve.
 
 # Photos:
+![CodePilot Logo](https://github.com/TXSRP/CodePilot/blob/main/Screenshots/Codepilot.Logo.jpg)
 
 ![CodePilot Photo1](https://github.com/TXSRP/CodePilot/blob/main/Screenshots/Photo1.png)
 
