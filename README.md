@@ -132,3 +132,13 @@ For major changes, please open an issue first to discuss what you’d like to im
 ![CodePilot Photo4](https://github.com/TXSRP/CodePilot/blob/main/Screenshots/Photo4.png)
 
 ![CodePilot Photo5](https://github.com/TXSRP/CodePilot/blob/main/Screenshots/Photo5.png)
+
+![CodePilot Photo5](https://github.com/TXSRP/CodePilot/blob/main/Screenshots/Photo6.png)
+
+![CodePilot Photo5](https://github.com/TXSRP/CodePilot/blob/main/Screenshots/Photo7.png)
+
+![CodePilot Photo5](https://github.com/TXSRP/CodePilot/blob/main/Screenshots/Photo8.png)
+
+![CodePilot Photo5](https://github.com/TXSRP/CodePilot/blob/main/Screenshots/Photo9.png)
+
+![CodePilot Photo5](https://github.com/TXSRP/CodePilot/blob/main/Screenshots/Photo10.png)
