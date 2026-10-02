@@ -1,144 +1,184 @@
-# -------------------------------------------------------------------------
-# Please read Computer Specs.md to see recommended/Minimum requirements
-# -------------------------------------------------------------------------
-
-Note photos at the bottom
-
 # CodePilot
 
-A local‑AI Unity assistant powered by Ollama — no cloud, no API keys, fully offline.
+**A local AI Unity assistant powered by Ollama.**
 
-CodePilot is a Unity Editor extension that brings AI‑assisted development directly into your workflow.
-It runs entirely on your machine, using local models hosted through Ollama.
-No external servers. No data leaves your PC.
+CodePilot is a Unity Editor extension that brings AI-assisted development directly into your Unity workflow.
 
-# Features
+It runs AI models locally through **Ollama**, allowing CodePilot to work without requiring a cloud AI service, API keys, subscriptions, or AI credits.
 
-AI‑powered Unity coding assistance
+> 🚧 **Development Status:** CodePilot is actively being developed. Features and supported models may change as development continues.
 
-Local model support (Qwen, DeepSeek, etc.)
+---
 
-Script generation with safe formatting
+## ✨ Features
 
-Unity Editor tools (Inspector, Project Viewer, Prefab Viewer, Scene Graph Viewer, Error Console, API Reference, and more)
+* AI-powered Unity coding assistance
+* Local AI model support through Ollama
+* Qwen, DeepSeek, and other compatible models
+* C# script generation with safe formatting
+* Unity Inspector tools
+* Project Viewer
+* Prefab Viewer
+* Scene Graph Viewer
+* Error Console
+* Unity API Reference
+* Reads project files for additional context
+* Generates C# scripts using defined formatting rules
+* Local AI processing
+* No API keys
+* No subscriptions
+* No AI credits
 
-Reads your project files for context
+---
 
-Generates C# scripts using strict rules
+## 🧠 How CodePilot Works
 
-Fully offline — zero cloud usage
+CodePilot connects to **Ollama**, a local AI runtime.
 
-No API keys, no subscriptions, no credits
-
-# How CodePilot Works
-
-CodePilot connects to Ollama, a local AI runtime.
 When Ollama is running, CodePilot can:
 
-Generate scripts
+* Generate C# scripts
+* Read project files
+* Inspect your Unity project
+* Provide context-aware suggestions
+* Assist with Unity development
 
-Read files
+If Ollama is closed, CodePilot cannot communicate with the local model until Ollama is running again.
 
-Inspect your Unity project
+---
 
-Provide context‑aware suggestions
+## 📦 Installation
 
-If Ollama is closed, CodePilot simply stops until you reopen it.
+The complete installation tutorial is available in the **CodePilot Discord**.
 
-# Installation
+### The setup guide includes:
 
-The full installation tutorial is available in the CodePilot Discord:
-https://discord.gg/SuBuRVS6PK
+* Ollama setup
+* Model installation
+* Unity import guide
+* Troubleshooting
+* Unity integration information
 
-This includes:
+### Discord
 
-Ollama setup
+**[Join the CodePilot Discord](https://discord.gg/SuBuRVS6PK)**
 
-Model installation
+---
 
-Unity import guide
+## 🤖 Supported Models
 
-Troubleshooting steps
+CodePilot is designed to work with local models that support code generation through Ollama.
 
-# Supported Models
+Examples include:
 
-CodePilot works with any local model that supports code generation, including:
+* Qwen 2.5 Coder 7B
+* Qwen 2.5 Coder 32B
+* DeepSeek LLM 7B
+* DeepSeek LLM 33B
 
-Qwen 2.5 Coder 7B
+More models will be tested and supported in future updates.
 
-Qwen 2.5 Coder 32B
+> Model performance and hardware requirements can vary significantly depending on the model size.
 
-DeepSeek LLM 7B
+---
 
-DeepSeek LLM 33B
+## 💻 System Requirements
 
-More models will be supported in future updates.
+Please read **[Computer Specs.md](Computer%20Specs.md)** for the recommended and minimum system requirements.
 
-# --------------------------------------------
+Your hardware requirements will depend heavily on the local AI model you choose to run.
 
-the Discord server, including:
+---
 
-Setup Guide
-
-Model List
-
-Unity Integration
-
-Troubleshooting
-
-Join here:
-https://discord.gg/SuBuRVS6PK
-
-# Reporting Issues
+## 🐛 Reporting Issues
 
 If you find a bug, please include:
 
-What happened
+* What happened
+* Steps to reproduce the issue
+* Model being used
+* Unity version
+* Logs
+* Screenshots, if applicable
 
-Steps to reproduce
+You can submit issues through the **GitHub Issues** tab or the **CodePilot Discord**.
 
-Model used
+---
 
-Unity version
+## 🔐 Privacy
 
-Logs or screenshots
+CodePilot is designed for local AI processing.
 
-Submit issues through the GitHub Issues tab or the discord.
+Your Unity project files are processed through the locally running Ollama instance rather than being sent to a CodePilot cloud server.
 
-# Privacy
+CodePilot does not require an external AI API key or cloud AI subscription.
 
-CodePilot runs entirely offline.
-Your project files never leave your machine.
-All AI processing happens locally through Ollama.
+---
 
-# License
-
-This project is licensed under the MIT License.
-
-# Contributing
+## 🤝 Contributing
 
 Pull requests are welcome.
-For major changes, please open an issue first to discuss what you’d like to improve.
 
-# Photos:
-![CodePilot Logo](https://github.com/TXSRP/CodePilot/blob/main/Screenshots/Codepilot.Logo.jpg)
+For major changes, please open an issue first so the proposed change can be discussed before development begins.
 
-![CodePilot Photo1](https://github.com/TXSRP/CodePilot/blob/main/Screenshots/Photo1.png)
+---
 
-![CodePilot Photo2](https://github.com/TXSRP/CodePilot/blob/main/Screenshots/Photo2.png)
+## 📜 License
 
-![CodePilot Photo3](https://github.com/TXSRP/CodePilot/blob/main/Screenshots/Photo3.png)
+This project is licensed under the **MIT License**.
 
-![CodePilot Photo4](https://github.com/TXSRP/CodePilot/blob/main/Screenshots/Photo4.png)
+---
 
-![CodePilot Photo5](https://github.com/TXSRP/CodePilot/blob/main/Screenshots/Photo5.png)
+# 📸 Screenshots
 
-![CodePilot Photo5](https://github.com/TXSRP/CodePilot/blob/main/Screenshots/Photo6.png)
+## CodePilot Logo
 
-![CodePilot Photo5](https://github.com/TXSRP/CodePilot/blob/main/Screenshots/Photo7.png)
+![CodePilot Logo](https://github.com/TXSRP/CodePilot/raw/main/Screenshots/Codepilot.Logo.jpg)
 
-![CodePilot Photo5](https://github.com/TXSRP/CodePilot/blob/main/Screenshots/Photo8.png)
+## CodePilot Photo 1
 
-![CodePilot Photo5](https://github.com/TXSRP/CodePilot/blob/main/Screenshots/Photo9.png)
+![CodePilot Photo 1](https://github.com/TXSRP/CodePilot/raw/main/Screenshots/Photo1.png)
 
-![CodePilot Photo5](https://github.com/TXSRP/CodePilot/blob/main/Screenshots/Photo10.png)
+## CodePilot Photo 2
+
+![CodePilot Photo 2](https://github.com/TXSRP/CodePilot/raw/main/Screenshots/Photo2.png)
+
+## CodePilot Photo 3
+
+![CodePilot Photo 3](https://github.com/TXSRP/CodePilot/raw/main/Screenshots/Photo3.png)
+
+## CodePilot Photo 4
+
+![CodePilot Photo 4](https://github.com/TXSRP/CodePilot/raw/main/Screenshots/Photo4.png)
+
+## CodePilot Photo 5
+
+![CodePilot Photo 5](https://github.com/TXSRP/CodePilot/raw/main/Screenshots/Photo5.png)
+
+## CodePilot Photo 6
+
+![CodePilot Photo 6](https://github.com/TXSRP/CodePilot/raw/main/Screenshots/Photo6.png)
+
+## CodePilot Photo 7
+
+![CodePilot Photo 7](https://github.com/TXSRP/CodePilot/raw/main/Screenshots/Photo7.png)
+
+## CodePilot Photo 8
+
+![CodePilot Photo 8](https://github.com/TXSRP/CodePilot/raw/main/Screenshots/Photo8.png)
+
+## CodePilot Photo 9
+
+![CodePilot Photo 9](https://github.com/TXSRP/CodePilot/raw/main/Screenshots/Photo9.png)
+
+## CodePilot Photo 10
+
+![CodePilot Photo 10](https://github.com/TXSRP/CodePilot/raw/main/Screenshots/Photo10.png)
+
+---
+
+## 💬 Community
+
+Need help with CodePilot, Ollama setup, model installation, or Unity integration?
+
+**[Join the CodePilot Discord](https://discord.gg/SuBuRVS6PK)**
