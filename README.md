@@ -131,6 +131,8 @@ This project is licensed under the **MIT License**.
 
 # 📸 Screenshots
 
+-# Please note: These photos may not reflect recent changes.
+
 ## CodePilot Logo
 
 ![CodePilot Logo](https://github.com/TXSRP/CodePilot/raw/main/Screenshots/Codepilot.Logo.jpg)
