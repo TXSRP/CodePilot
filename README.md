@@ -131,7 +131,7 @@ This project is licensed under the **MIT License**.
 
 # 📸 Screenshots
 
--# Please note: These photos may not reflect recent changes.
+> Please note: These photos may not reflect recent changes.
 
 ## CodePilot Logo
 
