@@ -1,309 +1,407 @@
-# CODEPILOT FREE USE LICENSE (CFUL) 1.0.0
+License Name: CodePilot Free Use License (CFUL)
+License Version: 1.0.0
+Release Year: 2026
+Project: CodePilot — Unity Development Assistant
+Rights Holder: CodePilot
+Repository: https://github.com/TXSRP/CodePilot/tree/main
 
-**Project:** CodePilot — Unity Development Assistant  
-**License Version:** 1.0.0  
-**Release Year:** 2026  
-**Copyright:** © 2026 CodePilot  
-**Repository:** https://github.com/TXSRP/CodePilot/tree/main  
-**License Type:** Custom Source-Available License
+Copyright (c) 2026 CodePilot
 
----
+============================================================
+1. PURPOSE
+============================================================
 
-## 1. PURPOSE
+The CodePilot Free Use License (CFUL) governs the use, copying,
+modification, merging, private sharing, and other permitted activities
+involving CodePilot software.
 
-CodePilot is a Unity development assistant designed to help developers improve their workflows through AI-powered assistance, editor tools, and related functionality.
+CodePilot is intended to remain free to obtain and use. This license
+allows users to use, copy, modify, merge, and privately share the Software
+for permitted purposes while restricting unauthorized public publication,
+public redistribution, and sale of copies.
 
-This license establishes the conditions under which individuals may use, copy, modify, merge, and privately share CodePilot while protecting the project's free availability, original branding, and identity.
+This license also establishes separate protections for official CodePilot
+logos, wordmarks, icons, and designated branding assets.
 
-CodePilot is intended to be free to use. No one is authorized by this license to sell copies of CodePilot or publicly redistribute copies without permission from the copyright holder.
+By exercising permissions granted under this license, you agree to comply
+with its applicable terms and restrictions.
 
-By using, copying, modifying, or sharing CodePilot, you agree to comply with the applicable terms of this license.
+============================================================
+2. DEFINITIONS
+============================================================
 
-## 2. DEFINITIONS
+"CodePilot" means the CodePilot Unity Development Assistant software and
+other materials expressly identified as being governed by this license.
 
-For this license:
+"Software" means the source code and other software components covered
+by this license.
 
-**2.1. CodePilot:** The software and materials covered by this license, including the relevant source code, C# scripts, Unity Editor tools, configuration files, documentation, and other included project materials, subject to the exclusions in Section 8.
+"Rights Holder" means the person or legal entity that owns or is
+authorized to exercise the applicable rights in the relevant material.
 
-**2.2. Copyright Holder:** The person or entity that owns the applicable copyright in the relevant CodePilot materials.
+"CodePilot Branding" means official CodePilot logos, wordmarks, icons,
+branding images, and other designated visual identity assets owned by
+or legally controlled by the applicable rights holder.
 
-**2.3. Official Repository:** The CodePilot repository maintained at https://github.com/TXSRP/CodePilot/tree/main, including its authorized branches and contribution workflow.
+"Private Sharing" means providing a copy of the Software directly to
+friends or other individual recipients without charging a fee and without
+making the copy publicly available.
 
-**2.4. Private Sharing:** Giving or sending a copy of CodePilot directly to friends or other individual recipients without making the copy publicly available and without charging for it.
+"Public Redistribution" means publishing, uploading, releasing, or
+otherwise making copies of the Software available to the general public
+through public repositories, websites, download platforms, file-hosting
+services, or other public distribution channels.
 
-**2.5. Public Redistribution:** Making CodePilot, or a copy or modified version of it, available to the general public through public repositories, websites, download platforms, file-hosting services, public release pages, or comparable distribution channels.
+"Modified Version" means a version of the Software that has been changed,
+adapted, extended, or combined with other code.
 
-**2.6. Modification:** Any change, adaptation, translation, extension, or other alteration to CodePilot's source code or other covered materials.
-
-**2.7. Branding:** CodePilot names, logos, icons, original visual identity assets, and other materials specifically used to identify the CodePilot project, to the extent owned by or controlled by the applicable rights holder.
-
-## 3. PERMITTED USE
-
-Subject to the restrictions in this license, you are granted a limited, non-exclusive, royalty-free permission to:
-
-**3.1. Use CodePilot**
-
-Install, run, and use CodePilot for personal, educational, research, development, and other lawful purposes.
-
-**3.2. Use CodePilot for Commercial Development**
-
-Use CodePilot as a development tool when creating, testing, or maintaining commercial or non-commercial Unity projects. You may sell your own games or other independent projects created with assistance from CodePilot, provided that you do not sell or improperly redistribute CodePilot itself.
-
-**3.3. Make Personal Copies**
-
-Download, copy, back up, and retain copies of CodePilot for your own use.
-
-**3.4. Modify and Adapt**
-
-Modify CodePilot, adapt its source code, create local forks, and merge portions of its code with your own projects for permitted use.
-
-**3.5. Privately Share Copies**
-
-Give or send copies of CodePilot to friends or other individual recipients for free, provided that the sharing remains private, does not become public distribution, and complies with this license.
-
-**3.6. Contribute to the Official Project**
-
-Submit bug fixes, improvements, documentation changes, and other contributions through pull requests to the official CodePilot repository.
-
-Contributors must have the right to submit the material they contribute. Submitting a pull request does not guarantee acceptance or grant the project rights that the contributor does not possess.
-
-**3.7. Retain Existing Branding in Permitted Copies**
-
-Keep CodePilot's original branding when retaining, using, modifying, backing up, or privately sharing a permitted copy of the complete package. This permission does not grant independent rights to extract or reuse branding assets.
-
-## 4. RESTRICTIONS
-
-Unless the applicable copyright holder gives prior written permission, you may not:
-
-**4.1. Publicly Redistribute Copies**
-
-Publish, upload, release, or otherwise make copies of CodePilot publicly available outside the official repository or other distribution channels expressly authorized by the copyright holder.
-
-This restriction applies to both original copies and modified versions.
-
-**4.2. Sell CodePilot**
-
-Sell CodePilot, sell copies of it, charge a fee specifically for providing copies of it, or offer paid access to copies of CodePilot.
-
-You may not evade this restriction by bundling CodePilot with another product, relabeling it, or describing the transaction as a service or package fee when the transaction effectively charges people for CodePilot copies.
-
-**4.3. Publish Modified Versions**
-
-Publicly release, distribute, or upload modified versions, forks, or derivative versions of CodePilot without the required written permission.
-
-Modifying CodePilot for your own use is permitted. Publicly distributing those modifications is a separate activity and is subject to this restriction.
-
-**4.4. Create Unauthorized Distribution Channels**
-
-Create or operate a public download page, mirror, public repository, public release page, or similar distribution channel for CodePilot without authorization.
-
-Sharing the link to the official CodePilot repository or an authorized official download page is permitted.
-
-**4.5. Repackage CodePilot as Your Own Product**
-
-Claim that CodePilot itself is your original creation, misrepresent its authorship, or present an unauthorized copy as an official release.
-
-You may acknowledge your own modifications, but you must not falsely claim ownership of work created by others.
-
-**4.6. Independently Redistribute Branding**
-
-Extract, publish, sell, or independently distribute CodePilot logos, icons, and other protected branding assets without permission from the applicable rights holder.
-
-**4.7. Imply Unauthorized Affiliation**
-
-Use CodePilot's branding in a manner that falsely suggests that your project, product, website, repository, or service is officially operated, approved, or endorsed by the CodePilot project.
-
-**4.8. Circumvent These Restrictions**
-
-Use another person, organization, account, repository, or distribution platform to perform an activity that this license prohibits you from performing directly.
-
-## 5. PRIVATE SHARING AND PUBLIC DISTRIBUTION
-
-This section clarifies the distinction between permitted private sharing and restricted public redistribution.
-
-**5.1. Sharing with Friends**
-
-You may give a friend a copy of CodePilot directly, including a complete copy of the Unity package, provided that you do so free of charge and comply with this license.
-
-**5.2. No Public Uploads Without Permission**
-
-You may not upload that copy to a public repository, website, download page, or file-hosting location where the general public can obtain it unless the copyright holder has authorized that distribution.
-
-**5.3. Official Links**
-
-You may direct other people to the official CodePilot repository and authorized official download links. Sharing an official link is not the same as uploading and distributing your own copy.
-
-**5.4. Recipient Obligations**
-
-You must not knowingly represent a privately shared copy as unrestricted for public redistribution. Recipients remain responsible for complying with the applicable license terms.
-
-**5.5. No Charge for Copies**
-
-Private sharing must be free. This license does not authorize selling, renting, or charging for copies, even when the recipient is a friend.
-
-## 6. MODIFICATIONS, MERGES, AND DERIVATIVE WORKS
-
-**6.1. Local Modifications**
-
-You may modify CodePilot and create modified versions for your own permitted use.
-
-**6.2. Merging Code**
-
-You may merge portions of CodePilot with your own code, subject to the rights of third parties and the restrictions applicable to the CodePilot portions.
-
-**6.3. Modified Copies Shared Privately**
-
-You may privately share a modified copy with an individual recipient for free, provided that the sharing complies with this license and all applicable third-party rights.
-
-**6.4. Public Release Requires Permission**
-
-Neither modifying CodePilot nor combining it with other software grants permission to publicly redistribute the resulting version.
-
-**6.5. Independent Work**
-
-This license does not automatically claim ownership of your independently created work. However, it continues to govern the CodePilot materials covered by it. Separate third-party components remain subject to their own applicable terms.
-
-## 7. CONTRIBUTIONS AND PULL REQUESTS
-
-**7.1. Contributions Welcome**
-
-Contributions to CodePilot are welcome through the official repository's pull request process.
-
-**7.2. Contributor Rights**
-
-By submitting a contribution, you confirm that you have the necessary rights to submit it and that, to the best of your knowledge, it does not unlawfully use someone else's protected material.
-
-**7.3. License for Accepted Contributions**
-
-Unless a separate written agreement states otherwise, contributions accepted into CodePilot are made available under the license governing the relevant project materials, to the extent the contributor has the legal right to grant those permissions.
-
-**7.4. No Automatic Transfer of Ownership**
-
-Submitting a pull request does not automatically transfer copyright ownership to the project maintainer. Any transfer or additional licensing arrangement must be established separately where required.
-
-**7.5. Review and Acceptance**
-
-The project maintainer may review, request changes to, decline, or accept pull requests at their discretion, subject to applicable law and repository policies.
-
-**7.6. Public Repository Contributions**
-
-The official repository may publicly display submitted contributions as part of the project. Contributors should not submit secrets, private information, or material they are not authorized to publish.
-
-## 8. THIRD-PARTY MATERIALS AND EXCLUSIONS
-
-**8.1. Third-Party Software**
-
-External libraries, dependencies, assets, models, and other third-party materials included with or referenced by CodePilot may be governed by their own licenses and terms.
-
-This license does not replace, override, or grant rights beyond the licenses applicable to those materials.
-
-**8.2. Unity and Unity Technologies**
-
-Unity Engine, Unity Editor, and Unity Technologies' assets, trademarks, and other intellectual property are not owned by CodePilot merely because CodePilot uses or references them. They remain subject to their respective terms.
-
-**8.3. Third-Party Assets**
-
-Assets included for demonstration, compatibility, or other purposes are excluded from this license to the extent that the applicable rights belong to third parties.
-
-**8.4. Ownership of Branding**
-
-CodePilot branding is subject to the rights of its actual owner. This license does not grant an independent right to reproduce, extract, distribute, or commercially exploit branding assets.
-
-**8.5. No Rights Over Unrelated Work**
-
-This license does not claim ownership over software or materials that are genuinely independent of CodePilot and are not otherwise subject to the copyright holder's rights.
-
-## 9. COPYRIGHT, ATTRIBUTION, AND NOTICES
-
-**9.1. Preserve Existing Notices**
-
-Do not remove or falsify applicable copyright notices, license notices, or attribution included with the CodePilot materials.
-
-**9.2. Acknowledge Original Work**
-
-When referring to CodePilot or describing modifications to it, do not falsely represent the original project or another person's work as your own.
-
-**9.3. No Independent Branding License**
-
-Retaining notices and branding in a permitted copy does not give you ownership of the CodePilot name, logos, icons, or other protected identity assets.
-
-## 10. ENFORCEMENT AND RIGHTS PROTECTION
-
-Where there is a reasonable legal basis to believe that this license or applicable intellectual property rights have been violated, the relevant rights holder may pursue appropriate remedies, subject to applicable law.
-
-Possible measures may include:
-
-- Sending a cease-and-desist notice requesting that the alleged violation stop.
-- Requesting removal of unauthorized copies from websites or repositories.
-- Submitting copyright or trademark complaints or takedown requests where legally justified.
-- Requesting correction of false claims of authorship, ownership, or official affiliation.
-- Seeking other remedies available under applicable law.
-
-**Right to Be Forgotten (RTBF):** Requests concerning the deletion of personal information may be made where applicable under relevant privacy laws. An RTBF request is not, by itself, a general mechanism for removing software copies or enforcing branding restrictions.
-
-No enforcement action is guaranteed to succeed. The appropriate action depends on the facts, the rights involved, the relevant platform's procedures, and applicable law.
-
-Nothing in this section authorizes harassment, unlawful retaliation, false claims, or misuse of reporting procedures.
-
-## 11. DISCLAIMER OF WARRANTY
-
-To the maximum extent permitted by applicable law, CodePilot is provided "AS IS", without warranties of any kind, express or implied, including warranties of merchantability, fitness for a particular purpose, and non-infringement.
-
-The copyright holder does not guarantee that CodePilot will be error-free, uninterrupted, secure, compatible with every system, or suitable for a particular purpose.
-
-You are responsible for evaluating CodePilot before using it in your projects and for maintaining appropriate backups of your work.
-
-## 12. LIMITATION OF LIABILITY
-
-To the maximum extent permitted by applicable law, the copyright holder and contributors shall not be liable for claims, damages, or other liabilities arising from the use of, inability to use, modification of, or distribution of CodePilot, including direct, indirect, incidental, special, or consequential damages.
-
-Nothing in this license excludes or limits liability where such exclusion or limitation is prohibited by applicable law.
-
-## 13. TERMINATION
-
-Permissions granted under this license terminate automatically if you materially violate its terms, subject to any rights to cure, reinstatement, or other requirements imposed by applicable law.
-
-Upon termination, you must stop the activities no longer authorized by the license and address the violation as legally required.
-
-Termination does not automatically extinguish rights that you independently hold in your original contributions or other independently owned materials. Rights and obligations relating to previously accepted contributions may also be governed by separate agreements and applicable law.
-
-The copyright holder may reinstate permission in writing.
-
-## 14. CHANGES TO THIS LICENSE
-
-The copyright holder may publish updated versions of the CodePilot Free Use License for future releases.
-
-Each release should identify the license version that applies to it. A later license version does not automatically change the terms governing an earlier release unless the applicable rights holder has the legal authority to make that change.
-
-No change to a license version retroactively removes rights that have already been validly granted and cannot lawfully be withdrawn.
-
-## 15. PERMISSION REQUESTS AND CONTACT
-
-Requests for permission to publicly redistribute CodePilot, publish modified versions, reuse branding, or engage in other activities restricted by this license should be submitted to the project maintainer.
-
-**Official Repository:**  
+"Official Repository" means the CodePilot repository maintained at:
 https://github.com/TXSRP/CodePilot/tree/main
 
-**GitHub Issues:**  
+============================================================
+3. PERMITTED USE
+============================================================
+
+Subject to this license, you are permitted to:
+
+a. Use CodePilot free of charge.
+
+b. Make copies of CodePilot for your own use.
+
+c. Modify the Software for your own use.
+
+d. Merge the Software with other code for your own use.
+
+e. Use CodePilot for personal, educational, research, and commercial
+development activities.
+
+f. Retain the original CodePilot Branding when using a permitted copy
+of the complete Software package.
+
+g. Share copies of CodePilot privately with friends or other individual
+recipients, provided that the copies are shared free of charge and are
+not made publicly available.
+
+h. Share the official CodePilot repository link and authorized official
+download links with other people.
+
+i. Submit pull requests to the Official Repository, including bug fixes,
+improvements, code changes, documentation, and other contributions.
+
+j. Maintain private copies, private forks, backups, and Modified Versions
+for your own permitted use.
+
+These permissions do not grant ownership of CodePilot or its Branding.
+
+Permission to use, copy, modify, merge, or privately share the Software
+does not grant permission to publicly redistribute copies.
+
+============================================================
+4. RESTRICTIONS ON PUBLICATION AND REDISTRIBUTION
+============================================================
+
+Unless the Rights Holder grants prior written permission, you may NOT:
+
+a. Publish or publicly redistribute copies of CodePilot.
+
+b. Upload copies of CodePilot to public repositories, download websites,
+file-hosting services, or other public distribution platforms.
+
+c. Sell, rent, sublicense, or charge a fee specifically for copies of
+CodePilot or Modified Versions.
+
+d. Publish or publicly redistribute Modified Versions of CodePilot.
+
+e. Repackage CodePilot and present it as your own software product.
+
+f. Claim to be the original creator, owner, or official maintainer of
+CodePilot without authorization.
+
+g. Create unauthorized public mirrors, download pages, or public releases
+containing copies of CodePilot.
+
+h. Circumvent these restrictions by using another person, account, or
+organization to perform an activity prohibited by this license.
+
+i. Charge another person specifically for providing a copy of CodePilot,
+including by disguising the charge as a packaging, access, or distribution
+fee.
+
+These restrictions do NOT prohibit the private sharing expressly allowed
+under Section 3.
+
+Sharing a copy directly with a friend for free is permitted. Uploading that
+copy to a public website or repository for anyone to download is not
+permitted without prior written permission.
+
+Sharing an official CodePilot repository link or authorized download link
+is permitted and is not considered unauthorized Public Redistribution.
+
+Any redistribution authorized by the Rights Holder must comply with the
+conditions of that authorization.
+
+============================================================
+5. CODEPILOT BRANDING
+============================================================
+
+CodePilot Branding is expressly excluded from the general permissions
+granted under this license, except for the limited permissions expressly
+stated in this section.
+
+The complete CodePilot Software package may contain official branding.
+The original branding may remain intact when a user retains, uses, modifies,
+backs up, or privately shares a permitted copy of the complete package.
+
+However, this license does NOT grant permission to independently extract,
+publish, redistribute, sell, or reuse CodePilot logos and branding images.
+
+Unless separately authorized by the Rights Holder or otherwise permitted
+by applicable law, you may NOT:
+
+a. Distribute CodePilot logos or branding images as standalone assets.
+
+b. Use CodePilot Branding as the official identity of another product,
+project, organization, or service.
+
+c. Claim CodePilot Branding as your own.
+
+d. Falsely imply that a product or project is officially affiliated with,
+sponsored by, approved by, or endorsed by CodePilot.
+
+e. Remove or alter applicable ownership notices for the purpose of
+misrepresenting the origin of the Branding.
+
+f. Sell or independently redistribute official CodePilot Branding.
+
+Separate permission is required for uses of excluded Branding that are
+not otherwise permitted by applicable law.
+
+Third-party branding and assets remain subject to their respective owners'
+rights and licensing terms.
+
+============================================================
+6. MODIFICATIONS AND MERGING
+============================================================
+
+You may modify or merge the Software for purposes permitted by Section 3.
+
+You may keep your own modifications for personal or other permitted use.
+
+You may privately share a Modified Version with friends or other individual
+recipients, provided that the sharing is free of charge and complies with
+this license.
+
+Modified Versions remain subject to the publication and redistribution
+restrictions in Section 4.
+
+You may not publicly publish or distribute a Modified Version without
+prior written permission from the Rights Holder.
+
+Modifying, merging, or extending the Software does not grant ownership of
+the original CodePilot materials or its Branding.
+
+This license does not grant rights to third-party code beyond the rights
+available under the applicable third-party licenses.
+
+============================================================
+
+7. ENFORCEMENT AND RIGHTS PROTECTION
+============================================================
+
+Where legally justified, the Rights Holder reserves the right to choose
+appropriate actions in response to unauthorized publication, public
+redistribution, sale, or misuse of protected CodePilot Branding.
+
+Depending on the circumstances and applicable law, possible actions include:
+
+a. RTBF (Right to Be Forgotten) requests where applicable to personal
+information and supported by the relevant legal grounds.
+
+b. Cease-and-desist (C/D) notices.
+
+c. Copyright or trademark complaints and takedown requests where legally
+justified.
+
+d. Requests to correct or remove material that unlawfully misuses protected
+Branding or misrepresents an official affiliation.
+
+e. Other legal or administrative remedies available under applicable law.
+
+The Rights Holder may select one or more available actions depending on
+the circumstances. No action is guaranteed to succeed, and all actions
+remain subject to applicable law and the facts of the situation.
+
+Nothing in this license creates a legal right to submit a request that
+would otherwise be unavailable under applicable law.
+
+An RTBF request is intended for applicable personal-information and privacy
+situations. It is not, by itself, a general mechanism for removing software
+copies or enforcing branding restrictions.
+
+Nothing in this section authorizes harassment, false claims, unlawful
+retaliation, or misuse of reporting procedures.
+
+============================================================
+8. THIRD-PARTY MATERIALS
+============================================================
+
+This license does not override the licenses or rights governing third-party
+libraries, assets, or other materials included with or referenced by
+CodePilot.
+
+Unity Engine and Unity Technologies materials remain subject to their
+respective terms.
+
+Third-party libraries, models, assets, and other components may have their
+own distribution and licensing requirements.
+
+You are responsible for complying with applicable third-party license
+requirements when using CodePilot.
+
+Nothing in this license grants rights to third-party materials beyond the
+rights available under their respective licenses.
+
+============================================================
+9. CONTRIBUTIONS AND PULL REQUESTS
+============================================================
+
+Contributions to CodePilot may be submitted through pull requests to the
+Official Repository.
+
+Contributions may include bug fixes, improvements, code changes, examples,
+documentation, and other project-related materials.
+
+The Rights Holder may review, request changes to, accept, or reject
+contributions at their discretion.
+
+Before a contribution is incorporated into CodePilot, the applicable
+licensing terms for that contribution must be established.
+
+By submitting a contribution, you confirm that you have the rights
+necessary to submit it and that you are not knowingly submitting material
+that unlawfully infringes another party's rights.
+
+Submitting a contribution does not automatically transfer ownership of it
+or grant permission to publish or redistribute CodePilot outside the
+permissions of this license.
+
+Unless a separate written agreement states otherwise, accepted contributions
+must be made available under terms compatible with the licensing terms
+applicable to the relevant CodePilot materials, to the extent the contributor
+has the legal right to grant those permissions.
+
+Contributions submitted through the Official Repository may be publicly
+displayed as part of the project and its development history.
+
+============================================================
+10. DISCLAIMER OF WARRANTY
+============================================================
+
+TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW, THE SOFTWARE IS
+PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED,
+INCLUDING BUT NOT LIMITED TO WARRANTIES OF MERCHANTABILITY, FITNESS
+FOR A PARTICULAR PURPOSE, AND NONINFRINGEMENT.
+
+THE RIGHTS HOLDER DOES NOT GUARANTEE THAT THE SOFTWARE WILL BE ERROR-FREE,
+UNINTERRUPTED, SECURE, COMPATIBLE WITH EVERY SYSTEM, OR SUITABLE FOR ANY
+PARTICULAR PURPOSE.
+
+YOU ARE RESPONSIBLE FOR EVALUATING THE SOFTWARE BEFORE USING IT AND FOR
+MAINTAINING APPROPRIATE BACKUPS OF YOUR PROJECTS AND DATA.
+
+============================================================
+11. LIMITATION OF LIABILITY
+============================================================
+
+TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW, IN NO EVENT, UNLESS
+REQUIRED BY APPLICABLE LAW OR AGREED TO IN WRITING, SHALL THE RIGHTS HOLDER
+OR CONTRIBUTORS BE LIABLE FOR ANY CLAIM, DAMAGES, OR OTHER LIABILITY
+ARISING FROM, OUT OF, OR IN CONNECTION WITH THE SOFTWARE OR ITS USE.
+
+THIS INCLUDES DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR
+CONSEQUENTIAL DAMAGES, TO THE EXTENT THAT SUCH EXCLUSIONS ARE PERMITTED
+BY APPLICABLE LAW.
+
+NOTHING IN THIS LICENSE EXCLUDES OR LIMITS LIABILITY WHERE SUCH EXCLUSION
+OR LIMITATION IS PROHIBITED BY APPLICABLE LAW.
+
+============================================================
+12. TERMINATION
+============================================================
+
+Permissions granted under this license terminate automatically if you
+materially violate its terms, subject to any rights to cure, reinstatement,
+or other requirements imposed by applicable law.
+
+Where legally required, you may retain or regain permissions if the
+violation is appropriately remedied within the period provided by
+applicable law or an applicable written authorization.
+
+Upon termination, you must stop activities that are no longer authorized
+by this license and address the violation as required by applicable law.
+
+Termination does not eliminate obligations or rights that accrued before
+termination, nor does it override rights that cannot legally be restricted.
+
+The Rights Holder may reinstate permission in writing.
+
+============================================================
+13. LICENSE CHANGES
+============================================================
+
+The Rights Holder may publish updated versions of the CodePilot Free Use
+License for future releases.
+
+Each release should identify the license version that applies to it.
+
+A later version of this license does not automatically change the terms
+applicable to an earlier release unless the applicable Rights Holder has
+the legal authority to make that change.
+
+No change to a license version retroactively removes rights that have
+already been validly granted and cannot lawfully be withdrawn.
+
+============================================================
+14. CONTACT AND PERMISSION REQUESTS
+============================================================
+
+For issues, feature requests, contributions, or permission requests:
+
+GitHub Issues:
 https://github.com/TXSRP/CodePilot/issues
 
-**Email:**  
+Email:
 CodePilot-Unity.AI@proton.me
 
-Written permission should clearly identify the material involved and the specific activity being authorized. Permission for one activity does not automatically authorize other restricted activities.
+Requests to publish or publicly redistribute CodePilot must identify the
+intended use and distribution method.
 
-## 16. LICENSE IDENTITY
+Requests to use excluded CodePilot Branding must identify the relevant
+assets and intended use.
 
-This document establishes the **CodePilot Free Use License (CFUL) 1.0.0**, a custom source-available license.
+Permission for one activity does not automatically authorize other
+restricted activities.
 
-It is not the standard MIT License, Apache License 2.0, GNU General Public License, or another standard open-source license.
+============================================================
+15. LICENSE IDENTITY 
+============================================================
 
-Because this license restricts public redistribution and selling copies, it does not meet the Open Source Definition's standard requirements for an OSI-approved open-source license.
+This license is named the CodePilot Free Use License (CFUL), Version 1.0.0.
 
-CodePilot may be freely usable under this license without being unrestricted open-source software.
+It is a custom license created for CodePilot. It is not the MIT License,
+Apache License 2.0, GNU General Public License, or another standard
+open-source license.
 
----
+Because this license restricts public redistribution and the sale of copies,
+it should be described as a custom source-available license rather than
+an OSI-approved open-source license.
 
-**End of CodePilot Free Use License (CFUL) 1.0.0**
+CodePilot may be free to obtain and use under this license without being
+unrestricted open-source software.
 
-Copyright © 2026 CodePilot. All rights reserved, subject to the permissions expressly granted in this license.
+============================================================
+
+END OF CODEPILOT FREE USE LICENSE (CFUL) 1.0.0
+
+Copyright (c) 2026 CodePilot. All rights reserved, subject to the
+permissions expressly granted in this license.
